@@ -1,7 +1,7 @@
 import { useState, useEffect } from "react";
 import Search from "./components/search";
 import ErrorState from "./components/errorState";
-import PostCard from "./components/PostCard";
+import PostCard from "./components/postCard";
 
 const App = () => {
   // api declarations
